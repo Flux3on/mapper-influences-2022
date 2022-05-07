@@ -69,7 +69,7 @@ db["Headbang"]=db["1728"]=[{"userId":"1728","mentions":"0","username":"Headbang"
 db["Zyid"]=db["2778"]=[{"userId":"2778","mentions":"0","username":"Zyid","country":"US","influences":[]}];
 db["Enok Walker"]=db["5096"]=[{"userId":"5096","mentions":"0","username":"Enok Walker","country":"US","influences":[]}];
 db["Mifune24"]=db["4249"]=[{"userId":"4249","mentions":"2","username":"Mifune24","country":"US","influences":["Rolled","Sinistro","Echo"],"xcoord":"2252","ycoord":"611"}];
-db["Rolled"]=db["5243"]=[{"userId":"5243","mentions":"10","username":"Rolled","country":"US","influences":[],"xcoord":"2252","ycoord":"1131"}];
+db["Rolled"]=db["5243"]=[{"userId":"5243","mentions":"10","username":"Rolled","country":"US","influences":["James","Larto","GladiOol"],"xcoord":"2252","ycoord":"1131"}];
 db["flyboy87"]=db["5220"]=[{"userId":"5220","mentions":"0","username":"flyboy87","country":"US","influences":[]}];
 db["Phrygian"]=db["5268"]=[{"userId":"5268","mentions":"0","username":"Phrygian","country":"US","influences":[]}];
 db["Slezak"]=db["5725"]=[{"userId":"5725","mentions":"0","username":"Slezak","country":"US","influences":[]}];
