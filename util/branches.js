@@ -27,7 +27,9 @@ $(document).ready(function (){
 					
 				$ul.append(createNoneLi(text));
 				$(".treeview").children("li").first().append($ul);
-			}else if (user[0].influences.length > 0){
+			}
+			
+			if (user[0].influences.length > 0){
 				var $ul = $("<ul>");
 				var influences = makeInfluences(user[0].influences);
 				
@@ -35,7 +37,9 @@ $(document).ready(function (){
 					$ul.append(createLi(influence, getNewColor("rgb(33, 37, 41)")));
 				});
 				$(".treeview").children("li").first().append($ul);
-			}else{
+			}
+
+			if (!(typeof user[0].none !== "undefined" || user[0].influences.length > 0)) {
 				createAlert("No extra info from "+ user[0].username);
 			}
 		}else{
@@ -117,7 +121,8 @@ $(document).ready(function (){
 	
 						$ul.append(createNoneLi(text));
 						$(this).closest("li").append($ul);
-					}else if (user.influences.length > 0){
+					} 
+					if (user.influences.length > 0){
 						var $ul = $("<ul>");
 						var influences = makeInfluences(user.influences);
 						
@@ -125,7 +130,8 @@ $(document).ready(function (){
 							$ul.append(createLi(influence, newColor));
 						});
 						$(this).closest("li").append($ul).slideDown("fast");
-					}else{
+					}
+					if (!(typeof user.none !== "undefined" || user.influences.length > 0)) {
 						createAlert("No info from "+ user.username);
 					}
 				}
