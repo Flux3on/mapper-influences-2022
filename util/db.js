@@ -1836,7 +1836,7 @@ db["DeviousPanda"]=db["4966334"]=[{"userId":"4966334","mentions":"1","username":
 db["Chompy"]=db["7427035"]=[{"userId":"7427035","mentions":"1","username":"Chompy","country":"CA","influences":[]}];
 db["BoshyMan741"]=db["4830687"]=[{"userId":"4830687","mentions":"0","username":"BoshyMan741","country":"US","influences":["Hollow Wings", "hehe", "Cheri"]}];
 db["Fixxis"]=db["4673089"]=[{"userId":"4673089","mentions":"1","username":"Fixxis","country":"RS","influences":[]}];
-
+db["P1Twist"]=db["12679616"]=db["Paul Blart"]=[{"userId":"12679616","mentions":"0","username":"P1Twist","country":"CA","influences":["Cheri","zev","squirrelpascals"]}];
 
 
 
