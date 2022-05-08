@@ -138,7 +138,7 @@ db["ogicu8abruok"]=db["32453"]=[{"userId":"32453","mentions":"0","username":"ogi
 db["Cyclone"]=db["18589"]=[{"userId":"18589","mentions":"1","username":"Cyclone","country":"US","influences":["Echo","James","DJPop"],"none":"iNiS"}];
 db["Donjo"]=db["16977"]=[{"userId":"16977","mentions":"0","username":"Donjo","country":"US","influences":[]}];
 db["LeMoonwalker"]=db["6499"]=[{"userId":"6499","mentions":"0","username":"LeMoonwalker","country":"FR","influences":[]}];
-db["mm201"]=db["30655"]=db["MetalMario201"]=[{"userId":"30655","mentions":"7","username":"mm201","country":"CA","influences":["Echo","James","m980"],"xcoord":"4312","ycoord":"851"}];
+db["mm201"]=db["30655"]=db["MetalMario201"]=[{"userId":"30655","mentions":"7","username":"mm201","country":"CA","influences":["Echo","James","m980"],"none":"iNiS","xcoord":"4312","ycoord":"851"}];
 db["pokedigi"]=db["5726"]=[{"userId":"5726","mentions":"0","username":"pokedigi","country":"CN","influences":[]}];
 db["Drezus"]=db["5287"]=[{"userId":"5287","mentions":"0","username":"Drezus","country":"BR","influences":[],"none":"iNiS"}];
 db["adam2046"]=db["8358"]=[{"userId":"8358","mentions":"0","username":"adam2046","country":"AU","influences":[]}];
