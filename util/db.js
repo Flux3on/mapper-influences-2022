@@ -309,7 +309,7 @@ db["La Valse"]=db["70863"]=[{"userId":"70863","mentions":"0","username":"La Vals
 db["Nekomiya Nono"]=db["145557"]=[{"userId":"145557","mentions":"0","username":"Nekomiya Nono","country":"CN","influences":[]}];
 db["AdvanceBoy"]=db["45683"]=[{"userId":"45683","mentions":"0","username":"AdvanceBoy","country":"VE","influences":[]}];
 db["xierbaliti"]=db["34044"]=[{"userId":"34044","mentions":"0","username":"xierbaliti","country":"CN","influences":["DJPop"]}];
-db["arken1015"]=db["113646"]=[{"userId":"113646","mentions":"0","username":"arken1015","country":"KR","influences":[]}];
+db["marksman666"]=db["113646"]=db["arken1015"]=[{"userId":"113646","mentions":"0","username":"marksman666","country":"KR","influences":["Kharl","Starrodkirby86","m980"]}];
 db["Cyborg"]=db["6709091"]=[{"userId":"6709091","mentions":"0","username":"Cyborg","country":"US","influences":[]}];
 db["Sure"]=db["70730"]=db["ykcarrot"]=[{"userId":"70730","mentions":"8","username":"Sure","country":"KR","influences":["James","DJPop","kioukiou"],"alt":"ykcarrot","xcoord":"7672","ycoord":"1131"}];
 db["Mismagius"]=db["19048"]=db["Blue Dragon"]=[{"userId":"19048","mentions":"17","username":"Mismagius","country":"BR","influences":["Lesjuh","Charles445","Duoprism"],"alt":"Blue Dragon","xcoord":"7672","ycoord":"1511"}];
